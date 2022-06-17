@@ -1,0 +1,14 @@
+[
+  {
+    "package": "iriR",
+    "oncran": true
+  },
+  {
+    "package": "spiR",
+    "oncran": true
+  },
+  {
+    "package": "statcanR",
+    "oncran": true
+  }
+]
