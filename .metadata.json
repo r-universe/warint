@@ -1,12 +1,12 @@
 [
   {
-    "package": "statcanR",
-    "oncran": true
-  },
-  {
     "package": "iriR"
   },
   {
     "package": "spiR"
+  },
+  {
+    "package": "statcanR",
+    "oncran": true
   }
 ]

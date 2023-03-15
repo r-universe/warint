@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "statcanR"]
-	path = statcanR
-	url = https://github.com/warint/statcanr
-	shallow = true
-	registered = true
 [submodule "iriR"]
 	path = iriR
 	url = https://github.com/warint/irir
@@ -16,5 +11,10 @@
 [submodule "spiR"]
 	path = spiR
 	url = https://github.com/warint/spir
+	shallow = true
+	registered = true
+[submodule "statcanR"]
+	path = statcanR
+	url = https://github.com/warint/statcanr
 	shallow = true
 	registered = true
